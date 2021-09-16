@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPA_API", "RPA_API.csproj", "{376528EE-4F49-457C-98E2-A27343BB9C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376528EE-4F49-457C-98E2-A27343BB9C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376528EE-4F49-457C-98E2-A27343BB9C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376528EE-4F49-457C-98E2-A27343BB9C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376528EE-4F49-457C-98E2-A27343BB9C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF6FDE4-C889-468E-864D-C12D60E3994F}
+	EndGlobalSection
+EndGlobal
