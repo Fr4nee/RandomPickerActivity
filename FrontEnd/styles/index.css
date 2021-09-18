@@ -1,1 +1,14 @@
-/* No CSS *//*# sourceMappingURL=index.css.map */
+.container {
+  padding-top: 6vh;
+}
+
+.card {
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.705);
+}
+
+.col {
+  display: flex;
+  justify-content: center;
+}
+/*# sourceMappingURL=index.css.map */

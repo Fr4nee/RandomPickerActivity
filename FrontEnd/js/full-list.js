@@ -10,7 +10,7 @@ const tpl_type = document.createElement('td');
 const tpl_zone = document.createElement('td');
 
 function Traer() {
-    loader.innerHTML= '<div class="d-flex justify-content-center"><div class="spinner-border" role="status"><span class="visually-hidden"></span></div></div>';
+    loader.innerHTML= '<div class="d-flex justify-content-center"><div class="spinner-border text-light" role="status"><span class="visually-hidden"></span></div></div>';
     setTimeout(
         function Traer() {
             if(!firstClick){
